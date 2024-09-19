@@ -19,9 +19,9 @@ const Navbar = () => {
                 whileInView={{ opacity: 1, y: 10 }}
                 transition={{ duration: 0.5, delay: 0.5 }}
                 className='mg-8 flex items-center justify-center gap-4 text-3xl'>
-                <a href='https://www.youtube.com' target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+                <a href='#' target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
                 <a href='https://www.github.com/Robson47' target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-                <a href='https://www.instagram.com' target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
+                <a href='#' target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
             </motion.div>
         </nav>
     )
