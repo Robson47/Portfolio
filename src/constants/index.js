@@ -2,7 +2,7 @@ import project from "../assets/projects/project.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
 
-export const HERO_CONTENT = `Decidi me tornar um desenvolvedor Back-End após cursar Desenvolvimento de Sistemas, procuro me aprimorar e me desenvolver na área, Tenho experiência com controle de versão utilizando Git e no desenvolvimento web, com forte atuação em bibliotecas e frameworks JavaScript, como Express, Dotenv, JWT, entre outros. Busco continuamente me aprimorar, tanto tecnicamente quanto profissionalmente.`;
+export const HERO_CONTENT = `Decidi me tornar um desenvolvedor Back-End após cursar Desenvolvimento de Sistemas, procuro me aprimorar e me desenvolver na área, tenho experiência com controle de versão utilizando Git e no desenvolvimento web, com forte atuação em bibliotecas e frameworks JavaScript, como Express, Dotenv, JWT, entre outros. Busco continuamente me aprimorar, tanto tecnicamente quanto profissionalmente.`;
 
 export const ABOUT_TEXT = `Tive muito interesse por desenvolvimento Back-End desde o início dos meus estudos e busco me tornar um profissional competente e responsável, construindo assim uma carreira próspera na área, buscando sempre aprender novas habilidades e aplicar as melhores práticas. Meu objetivo é contribuir com soluções eficientes, agregando valor às empresas e projetos que trabalho.`;
 
